@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FirstCode\Methods\bin\Debug\Methods.exe.config
+D:\Users\Csharp\source\repos\FirstCode\Methods\bin\Debug\Methods.exe
+D:\Users\Csharp\source\repos\FirstCode\Methods\bin\Debug\Methods.pdb
+D:\Users\Csharp\source\repos\FirstCode\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FirstCode\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FirstCode\Methods\obj\Debug\Methods.exe
+D:\Users\Csharp\source\repos\FirstCode\Methods\obj\Debug\Methods.pdb

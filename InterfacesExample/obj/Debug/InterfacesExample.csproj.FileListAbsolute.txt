@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FirstCode\InterfacesExample\bin\Debug\InterfacesExample.exe.config
+D:\Users\Csharp\source\repos\FirstCode\InterfacesExample\bin\Debug\InterfacesExample.exe
+D:\Users\Csharp\source\repos\FirstCode\InterfacesExample\bin\Debug\InterfacesExample.pdb
+D:\Users\Csharp\source\repos\FirstCode\InterfacesExample\obj\Debug\InterfacesExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FirstCode\InterfacesExample\obj\Debug\InterfacesExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FirstCode\InterfacesExample\obj\Debug\InterfacesExample.exe
+D:\Users\Csharp\source\repos\FirstCode\InterfacesExample\obj\Debug\InterfacesExample.pdb

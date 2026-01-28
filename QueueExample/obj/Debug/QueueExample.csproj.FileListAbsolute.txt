@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FirstCode\QueueExample\bin\Debug\QueueExample.exe.config
+D:\Users\Csharp\source\repos\FirstCode\QueueExample\bin\Debug\QueueExample.exe
+D:\Users\Csharp\source\repos\FirstCode\QueueExample\bin\Debug\QueueExample.pdb
+D:\Users\Csharp\source\repos\FirstCode\QueueExample\obj\Debug\QueueExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FirstCode\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FirstCode\QueueExample\obj\Debug\QueueExample.exe
+D:\Users\Csharp\source\repos\FirstCode\QueueExample\obj\Debug\QueueExample.pdb

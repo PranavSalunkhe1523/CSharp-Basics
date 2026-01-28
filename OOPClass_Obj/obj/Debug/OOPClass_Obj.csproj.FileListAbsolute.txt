@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FirstCode\OOPClass_Obj\bin\Debug\OOPClass_Obj.exe.config
+D:\Users\Csharp\source\repos\FirstCode\OOPClass_Obj\bin\Debug\OOPClass_Obj.exe
+D:\Users\Csharp\source\repos\FirstCode\OOPClass_Obj\bin\Debug\OOPClass_Obj.pdb
+D:\Users\Csharp\source\repos\FirstCode\OOPClass_Obj\obj\Debug\OOPClass_Obj.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FirstCode\OOPClass_Obj\obj\Debug\OOPClass_Obj.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FirstCode\OOPClass_Obj\obj\Debug\OOPClass_Obj.exe
+D:\Users\Csharp\source\repos\FirstCode\OOPClass_Obj\obj\Debug\OOPClass_Obj.pdb

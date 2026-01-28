@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FirstCode\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+D:\Users\Csharp\source\repos\FirstCode\InheritanceExample\bin\Debug\InheritanceExample.exe
+D:\Users\Csharp\source\repos\FirstCode\InheritanceExample\bin\Debug\InheritanceExample.pdb
+D:\Users\Csharp\source\repos\FirstCode\InheritanceExample\obj\Debug\InheritanceExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FirstCode\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FirstCode\InheritanceExample\obj\Debug\InheritanceExample.exe
+D:\Users\Csharp\source\repos\FirstCode\InheritanceExample\obj\Debug\InheritanceExample.pdb
