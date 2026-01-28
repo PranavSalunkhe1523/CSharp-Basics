@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FirstOrDefault/FirstOrDefault.csproj" />
+  <Project Path="LINQExample/LINQExample.csproj" />
+  <Project Path="LINQOrderBy/LINQOrderBy.csproj" />
+  <Project Path="LINQSelect/LINQSelect.csproj" />
+</Solution>

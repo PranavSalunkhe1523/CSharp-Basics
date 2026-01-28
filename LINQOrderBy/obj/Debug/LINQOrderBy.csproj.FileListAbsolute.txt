@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\LINQExample\LINQOrderBy\bin\Debug\LINQOrderBy.exe.config
+D:\Users\Csharp\source\repos\LINQExample\LINQOrderBy\bin\Debug\LINQOrderBy.exe
+D:\Users\Csharp\source\repos\LINQExample\LINQOrderBy\bin\Debug\LINQOrderBy.pdb
+D:\Users\Csharp\source\repos\LINQExample\LINQOrderBy\obj\Debug\LINQOrderBy.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\LINQExample\LINQOrderBy\obj\Debug\LINQOrderBy.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\LINQExample\LINQOrderBy\obj\Debug\LINQOrderBy.exe
+D:\Users\Csharp\source\repos\LINQExample\LINQOrderBy\obj\Debug\LINQOrderBy.pdb

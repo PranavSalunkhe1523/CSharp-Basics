@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\LINQExample\LINQSelect\bin\Debug\LINQSelect.exe.config
+D:\Users\Csharp\source\repos\LINQExample\LINQSelect\bin\Debug\LINQSelect.exe
+D:\Users\Csharp\source\repos\LINQExample\LINQSelect\bin\Debug\LINQSelect.pdb
+D:\Users\Csharp\source\repos\LINQExample\LINQSelect\obj\Debug\LINQSelect.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\LINQExample\LINQSelect\obj\Debug\LINQSelect.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\LINQExample\LINQSelect\obj\Debug\LINQSelect.exe
+D:\Users\Csharp\source\repos\LINQExample\LINQSelect\obj\Debug\LINQSelect.pdb
