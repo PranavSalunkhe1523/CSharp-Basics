@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingExample\bin\Debug\FileHandlingExample.exe.config
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingExample\bin\Debug\FileHandlingExample.exe
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingExample\bin\Debug\FileHandlingExample.pdb
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingExample\obj\Debug\FileHandlingExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingExample\obj\Debug\FileHandlingExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingExample\obj\Debug\FileHandlingExample.exe
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingExample\obj\Debug\FileHandlingExample.pdb

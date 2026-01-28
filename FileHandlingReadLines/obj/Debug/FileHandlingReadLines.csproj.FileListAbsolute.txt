@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingReadLines\bin\Debug\FileHandlingReadLines.exe.config
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingReadLines\bin\Debug\FileHandlingReadLines.exe
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingReadLines\bin\Debug\FileHandlingReadLines.pdb
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingReadLines\obj\Debug\FileHandlingReadLines.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingReadLines\obj\Debug\FileHandlingReadLines.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingReadLines\obj\Debug\FileHandlingReadLines.exe
+D:\Users\Csharp\source\repos\FileHandlingExample\FileHandlingReadLines\obj\Debug\FileHandlingReadLines.pdb
