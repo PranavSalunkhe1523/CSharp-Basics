@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FirstCode\CollectionsExample\bin\Debug\CollectionsExample.exe.config
+D:\Users\Csharp\source\repos\FirstCode\CollectionsExample\bin\Debug\CollectionsExample.exe
+D:\Users\Csharp\source\repos\FirstCode\CollectionsExample\bin\Debug\CollectionsExample.pdb
+D:\Users\Csharp\source\repos\FirstCode\CollectionsExample\obj\Debug\CollectionsExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FirstCode\CollectionsExample\obj\Debug\CollectionsExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FirstCode\CollectionsExample\obj\Debug\CollectionsExample.exe
+D:\Users\Csharp\source\repos\FirstCode\CollectionsExample\obj\Debug\CollectionsExample.pdb

@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FirstCode\ConstructorExample\obj\Debug\ConstructorExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FirstCode\ConstructorExample\obj\Debug\ConstructorExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FirstCode\ConstructorExample\bin\Debug\ConstructorExample.exe.config
+D:\Users\Csharp\source\repos\FirstCode\ConstructorExample\bin\Debug\ConstructorExample.exe
+D:\Users\Csharp\source\repos\FirstCode\ConstructorExample\bin\Debug\ConstructorExample.pdb
+D:\Users\Csharp\source\repos\FirstCode\ConstructorExample\obj\Debug\ConstructorExample.exe
+D:\Users\Csharp\source\repos\FirstCode\ConstructorExample\obj\Debug\ConstructorExample.pdb

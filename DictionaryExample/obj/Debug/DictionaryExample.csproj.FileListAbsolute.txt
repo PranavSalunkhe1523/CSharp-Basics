@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FirstCode\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+D:\Users\Csharp\source\repos\FirstCode\DictionaryExample\bin\Debug\DictionaryExample.exe
+D:\Users\Csharp\source\repos\FirstCode\DictionaryExample\bin\Debug\DictionaryExample.pdb
+D:\Users\Csharp\source\repos\FirstCode\DictionaryExample\obj\Debug\DictionaryExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FirstCode\DictionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FirstCode\DictionaryExample\obj\Debug\DictionaryExample.exe
+D:\Users\Csharp\source\repos\FirstCode\DictionaryExample\obj\Debug\DictionaryExample.pdb

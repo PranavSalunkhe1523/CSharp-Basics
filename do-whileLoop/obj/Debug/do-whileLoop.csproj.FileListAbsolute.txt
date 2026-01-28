@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FirstCode\do-whileLoop\bin\Debug\do-whileLoop.exe.config
+D:\Users\Csharp\source\repos\FirstCode\do-whileLoop\bin\Debug\do-whileLoop.exe
+D:\Users\Csharp\source\repos\FirstCode\do-whileLoop\bin\Debug\do-whileLoop.pdb
+D:\Users\Csharp\source\repos\FirstCode\do-whileLoop\obj\Debug\do-whileLoop.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FirstCode\do-whileLoop\obj\Debug\do-whileLoop.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FirstCode\do-whileLoop\obj\Debug\do-whileLoop.exe
+D:\Users\Csharp\source\repos\FirstCode\do-whileLoop\obj\Debug\do-whileLoop.pdb

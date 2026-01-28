@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FirstCode\IfStatement\bin\Debug\IfStatement.exe.config
+D:\Users\Csharp\source\repos\FirstCode\IfStatement\bin\Debug\IfStatement.exe
+D:\Users\Csharp\source\repos\FirstCode\IfStatement\bin\Debug\IfStatement.pdb
+D:\Users\Csharp\source\repos\FirstCode\IfStatement\obj\Debug\IfStatement.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FirstCode\IfStatement\obj\Debug\IfStatement.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FirstCode\IfStatement\obj\Debug\IfStatement.exe
+D:\Users\Csharp\source\repos\FirstCode\IfStatement\obj\Debug\IfStatement.pdb

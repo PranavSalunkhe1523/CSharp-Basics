@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FirstCode\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\Users\Csharp\source\repos\FirstCode\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\Users\Csharp\source\repos\FirstCode\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\Users\Csharp\source\repos\FirstCode\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FirstCode\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FirstCode\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\Users\Csharp\source\repos\FirstCode\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

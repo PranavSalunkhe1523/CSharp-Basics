@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\FirstCode\EncapsulationExample\bin\Debug\EncapsulationExample.exe.config
+D:\Users\Csharp\source\repos\FirstCode\EncapsulationExample\bin\Debug\EncapsulationExample.exe
+D:\Users\Csharp\source\repos\FirstCode\EncapsulationExample\bin\Debug\EncapsulationExample.pdb
+D:\Users\Csharp\source\repos\FirstCode\EncapsulationExample\obj\Debug\EncapsulationExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\FirstCode\EncapsulationExample\obj\Debug\EncapsulationExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\FirstCode\EncapsulationExample\obj\Debug\EncapsulationExample.exe
+D:\Users\Csharp\source\repos\FirstCode\EncapsulationExample\obj\Debug\EncapsulationExample.pdb
