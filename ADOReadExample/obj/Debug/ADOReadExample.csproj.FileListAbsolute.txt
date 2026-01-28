@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\ADOReadExample\ADOReadExample\bin\Debug\ADOReadExample.exe.config
+D:\Users\Csharp\source\repos\ADOReadExample\ADOReadExample\bin\Debug\ADOReadExample.exe
+D:\Users\Csharp\source\repos\ADOReadExample\ADOReadExample\bin\Debug\ADOReadExample.pdb
+D:\Users\Csharp\source\repos\ADOReadExample\ADOReadExample\obj\Debug\ADOReadExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\ADOReadExample\ADOReadExample\obj\Debug\ADOReadExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\ADOReadExample\ADOReadExample\obj\Debug\ADOReadExample.exe
+D:\Users\Csharp\source\repos\ADOReadExample\ADOReadExample\obj\Debug\ADOReadExample.pdb

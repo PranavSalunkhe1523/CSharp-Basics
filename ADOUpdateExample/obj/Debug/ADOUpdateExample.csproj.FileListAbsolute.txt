@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\ADOReadExample\ADOUpdateExample\bin\Debug\ADOUpdateExample.exe.config
+D:\Users\Csharp\source\repos\ADOReadExample\ADOUpdateExample\bin\Debug\ADOUpdateExample.exe
+D:\Users\Csharp\source\repos\ADOReadExample\ADOUpdateExample\bin\Debug\ADOUpdateExample.pdb
+D:\Users\Csharp\source\repos\ADOReadExample\ADOUpdateExample\obj\Debug\ADOUpdateExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\ADOReadExample\ADOUpdateExample\obj\Debug\ADOUpdateExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\ADOReadExample\ADOUpdateExample\obj\Debug\ADOUpdateExample.exe
+D:\Users\Csharp\source\repos\ADOReadExample\ADOUpdateExample\obj\Debug\ADOUpdateExample.pdb

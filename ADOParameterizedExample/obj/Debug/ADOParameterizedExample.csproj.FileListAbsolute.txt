@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\ADOReadExample\ADOParameterizedExample\bin\Debug\ADOParameterizedExample.exe.config
+D:\Users\Csharp\source\repos\ADOReadExample\ADOParameterizedExample\bin\Debug\ADOParameterizedExample.exe
+D:\Users\Csharp\source\repos\ADOReadExample\ADOParameterizedExample\bin\Debug\ADOParameterizedExample.pdb
+D:\Users\Csharp\source\repos\ADOReadExample\ADOParameterizedExample\obj\Debug\ADOParameterizedExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\ADOReadExample\ADOParameterizedExample\obj\Debug\ADOParameterizedExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\ADOReadExample\ADOParameterizedExample\obj\Debug\ADOParameterizedExample.exe
+D:\Users\Csharp\source\repos\ADOReadExample\ADOParameterizedExample\obj\Debug\ADOParameterizedExample.pdb

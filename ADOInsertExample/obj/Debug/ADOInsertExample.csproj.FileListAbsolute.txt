@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\ADOReadExample\ADOInsertExample\bin\Debug\ADOInsertExample.exe.config
+D:\Users\Csharp\source\repos\ADOReadExample\ADOInsertExample\bin\Debug\ADOInsertExample.exe
+D:\Users\Csharp\source\repos\ADOReadExample\ADOInsertExample\bin\Debug\ADOInsertExample.pdb
+D:\Users\Csharp\source\repos\ADOReadExample\ADOInsertExample\obj\Debug\ADOInsertExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\ADOReadExample\ADOInsertExample\obj\Debug\ADOInsertExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\ADOReadExample\ADOInsertExample\obj\Debug\ADOInsertExample.exe
+D:\Users\Csharp\source\repos\ADOReadExample\ADOInsertExample\obj\Debug\ADOInsertExample.pdb

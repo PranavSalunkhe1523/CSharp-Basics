@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\ADOReadExample\ADODeleteExample\bin\Debug\ADODeleteExample.exe.config
+D:\Users\Csharp\source\repos\ADOReadExample\ADODeleteExample\bin\Debug\ADODeleteExample.exe
+D:\Users\Csharp\source\repos\ADOReadExample\ADODeleteExample\bin\Debug\ADODeleteExample.pdb
+D:\Users\Csharp\source\repos\ADOReadExample\ADODeleteExample\obj\Debug\ADODeleteExample.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\ADOReadExample\ADODeleteExample\obj\Debug\ADODeleteExample.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\ADOReadExample\ADODeleteExample\obj\Debug\ADODeleteExample.exe
+D:\Users\Csharp\source\repos\ADOReadExample\ADODeleteExample\obj\Debug\ADODeleteExample.pdb

@@ -1,0 +1,7 @@
+D:\Users\Csharp\source\repos\WhileLoops\bin\Debug\WhileLoops.exe.config
+D:\Users\Csharp\source\repos\WhileLoops\bin\Debug\WhileLoops.exe
+D:\Users\Csharp\source\repos\WhileLoops\bin\Debug\WhileLoops.pdb
+D:\Users\Csharp\source\repos\WhileLoops\obj\Debug\WhileLoops.csproj.AssemblyReference.cache
+D:\Users\Csharp\source\repos\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+D:\Users\Csharp\source\repos\WhileLoops\obj\Debug\WhileLoops.exe
+D:\Users\Csharp\source\repos\WhileLoops\obj\Debug\WhileLoops.pdb
